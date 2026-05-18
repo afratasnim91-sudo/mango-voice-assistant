@@ -6,7 +6,7 @@ import musicLibrary
 import requests
 import brain
 
-newsapi="f95da0b1e5a741d3877bfd87244d1f4e"
+newsapi=""
 
 
 def speak(text):
