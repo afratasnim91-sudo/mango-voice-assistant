@@ -1,7 +1,7 @@
 from google import genai
 
-# Make sure your key from the screenshot is in here
-client = genai.Client(api_key="AIzaSyAw4nHRW6ueWGFqYZqXTzqBssXmDxL3edk")
+# Make sure add your API key
+client = genai.Client(api_key="")
 
 def get_ai_response(prompt):
     try:
