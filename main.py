@@ -8,7 +8,6 @@ import brain
 
 newsapi="f95da0b1e5a741d3877bfd87244d1f4e"
 
-# engine = pyttsx3.init()
 
 def speak(text):
     engine = pyttsx3.init()
